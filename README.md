@@ -59,7 +59,7 @@ Note: Placepicker DOES NOT access your location. It's your app's responsibility 
 Note: `PlacePickerActivity` uses the default theme of your app. If you want to change the theme, declare it in your app's Manifest:
 ```xml
 <activity
-    android:name="com.sucho.placepicker.PlacePickerActivity"
+    android:name="com.placepicker.PlacePickerActivity"
     android:theme="@style/PlacePickerTheme"/> //Included FullScreen Day-Night Theme
 ```
 
