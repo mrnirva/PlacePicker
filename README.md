@@ -2,6 +2,8 @@
 
 PlacePicker is an alternative library that lets users select a location directly on the map and retrieve its coordinates and address using Geocoder, without relying on Google APIs.
 
+<p align="center"><img src="https://github.com/suchoX/PlacePicker/blob/master/screens/demo.gif"></p>
+
 ## Adding PlacePicker to your project
 
 You can simply copy and paste all the pages in their place.
