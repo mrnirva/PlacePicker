@@ -10,4 +10,8 @@
         android:label="@string/title_activity_place_picker"/>
   </application>
 
+  <meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="YOUR_MAP_API_KEY"/>
+
 </manifest>
