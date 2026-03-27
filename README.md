@@ -8,9 +8,7 @@ You can simply copy and paste all the pages in their place.
 
 ```
 dependencies {
-
-  implementation 'com.google.android.gms:play-services-maps:17.0.0'
-  implementation 'com.google.android.material:material:1.1.0'
+  implementation "com.google.android.gms:play-services-maps:18.2.0"
   implementation 'com.google.android.libraries.places:places:5.0.0'
 }
 ```
