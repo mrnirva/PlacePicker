@@ -61,6 +61,10 @@ Note: `PlacePickerActivity` uses the default theme of your app. If you want to c
 <activity
     android:name="com.placepicker.PlacePickerActivity"
     android:theme="@style/PlacePickerTheme"/> //Included FullScreen Day-Night Theme
+
+<meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="YOUR_MAP_API_KEY"/>
 ```
 
 If you are using Java instead of Kotlin:
